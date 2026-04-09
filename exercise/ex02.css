@@ -1,0 +1,10 @@
+p { color: rgb(0, 88, 124); font-size: xx-large}; 
+ol { color: rgb(0, 88, 124);}
+li { color: rgb(0, 88, 124); text-align: center;} 
+h2 { color: rgb(0, 88, 124); text-align: center;}
+em { color: rgb(0, 88, 124); font-size: xx-large; text-align:calc(200);}
+h1 { color: rgb(0, 88, 124); font-size: xxx-large; font-family: 'Times New Roman', Times, serif;}
+img {border-radius: 221dvb; border-color:rgb(0, 88, 124); border-width: 3cm; border-style: dashed;}
+
+html{font-family:'Courier New', Courier, monospace;}
+html {background-color:antiquewhite;}
