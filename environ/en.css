@@ -1,3 +1,12 @@
-html {background-color: rgb(00, 88, 124);}
-.font-1 {font-family: 'Courier New', Courier, monospace; color: azure;}
+
+h2{font-family: 'Courier New', Courier, monospace; color: azure;}
+h3{font-family: 'Courier New', Courier, monospace; color: azure;}
 h2 {color: azure;}
+body {
+  background-image: url("bckgenv.JPG");
+}
+img {border-radius: 221dvb; border-color:azure; border-width: .4cm; border-style: dashed;}
+img {
+  width: 200px;
+  height: auto;
+}
