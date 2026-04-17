@@ -1,0 +1,15 @@
+p { color: rgb(0, 88, 124); }; 
+ol { color: rgb(0, 88, 124);}
+li { color: rgb(0, 88, 124); text-align: center;} 
+h2 { color: rgb(0, 88, 124); text-align: center;}
+em { color: rgb(0, 88, 124); text-align:calc(200);}
+h1 { color: rgb(0, 88, 124); font-family: 'Times New Roman', Times, serif;}
+img {border-radius: 221dvb; border-color:rgb(0, 88, 124); border-width: 1cm; border-style: dashed;}
+
+html{font-family:'Courier New', Courier, monospace;}
+html {background-color:antiquewhite;}
+img {width: 300px;}
+body {
+    background:antiquewhite;
+    padding: 50px;
+}

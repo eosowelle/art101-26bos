@@ -1,0 +1,62 @@
+p { color: rgb(0, 88, 124); font-size: x-large}; 
+ol { color: rgb(0, 88, 124);}
+li { color: rgb(0, 88, 124); text-align: center; font-size: xx-large;} 
+h2 { color: rgb(0, 88, 124); text-align: center;}
+em { color: rgb(0, 88, 124); font-size: xx-large; text-align:calc(200);}
+h1 { color: rgb(0, 88, 124); font-size: xxx-large; font-family: 'Times New Roman', Times, serif;}
+img {border-radius: 221dvb; border-color:rgb(0, 88, 124); border-width: 3cm; border-style: dashed;}
+
+html{font-family:'Courier New', Courier, monospace;}
+html {background-color:antiquewhite;}
+.highlight_01 {
+    background-color: azure;
+}
+.highlight_02 {
+    background: #901e1e;
+}
+.highlight_03 {
+    background: #bd7cdf;
+}
+span {color:rgb(124, 88, 0) ;}
+/* select all html tags that have a class 
+highlight_01 */
+#bike-medium {width: 250px;}
+
+Div {
+background: azure;
+padding: 20px;
+margin: 20px;
+}
+
+p strong {
+    font-weight: normal;
+}
+
+li {
+    text-align: center;
+}
+
+
+
+/* select all html tags that have a class highlight_01 */
+
+#pink-huge {
+    width: 150px
+}
+
+#pink-medium {
+    width: 99px
+}
+
+#pink-small {
+    width: 50px
+}
+
+
+.test-div {
+    background: rgb(81, 233, 225);
+    margin: 30px;
+    padding: 40px;
+}
+
+.my-flex { display: flex;}
