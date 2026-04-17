@@ -6,7 +6,7 @@ em { color: rgb(0, 88, 124); font-size: xx-large; text-align:calc(200);}
 h1 { color: rgb(0, 88, 124); font-size: xxx-large; font-family: 'Times New Roman', Times, serif;}
 img {border-radius: 221dvb; border-color:rgb(0, 88, 124); border-width: .4cm; border-style: dashed;}
 img {
-  width: 300px;
+  width: 200px;
   height: auto; align-content: center; place-items: center;
 }
 html{font-family:'Courier New', Courier, monospace;}
