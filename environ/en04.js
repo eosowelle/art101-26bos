@@ -1,4 +1,3 @@
-
 let environmentTitle = "The Room That Refuses Morning";
 
 let environmentElements = ["curtain", "dust", "warm floor", "half-open door"];
